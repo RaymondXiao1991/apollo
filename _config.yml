@@ -1,12 +1,22 @@
 menu:
-    Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
-    Rss: /atom.xml
-
-favicon: /favicon.png
-logo: /favicon.png
+  - name: Blog
+    path: /
+    icon: fa fa-home
+  - name: Archive
+    path: /archives/
+    icon: fa fa-folder-open-o
+  - name: Weibo
+    path: http://weibo.com/fengxianhe
+    icon: fa fa-weibo
+  - name: GitHub
+    path: https://github.com/hefengxian
+    icon: fa fa-github-alt
+  - name: Coding
+    path: https://coding.net/u/hfx
+    icon: iconfont coding
+  - name: About
+    path: /about/
+    icon: fa fa-info-circle
 
 # Comment
 # e.g disqus: seansun
