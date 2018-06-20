@@ -5,14 +5,14 @@ menu:
   - name: Archive
     path: /archives/
     icon: fa fa-folder-open-o
-  - name: Weibo
-    path: http://weibo.com/fengxianhe
+  - name: JianShu
+    path: https://www.jianshu.com/u/b0702a59ee51
     icon: fa fa-weibo
   - name: GitHub
-    path: https://github.com/hefengxian
+    path: https://github.com/RaymondXiao1991
     icon: fa fa-github-alt
-  - name: Coding
-    path: https://coding.net/u/hfx
+  - name: CNBlogs
+    path: http://www.cnblogs.com/xiaoqingyang/
     icon: iconfont coding
   - name: About
     path: /about/
@@ -28,4 +28,4 @@ duoshuo:
 # ga: UA-xxxxxxxx-x
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2016
